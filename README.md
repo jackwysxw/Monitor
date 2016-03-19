@@ -1,5 +1,6 @@
 # Monitor
 创建SCADA
+
 1. 采集器
 2. 服务器
 3. modbus发布
